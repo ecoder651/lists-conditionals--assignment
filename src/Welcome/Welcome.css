@@ -1,0 +1,13 @@
+.Welcome {  
+    background-color: #008080;  
+    color: yellow;  
+    padding: 40px;  
+    font-family: Arial;  
+    text-align: center;  
+    
+  }  
+
+.Welcome:hover {
+    color:cyan;
+    background-color:chocolate;
+}
