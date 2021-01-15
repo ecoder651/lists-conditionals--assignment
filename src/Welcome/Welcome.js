@@ -12,7 +12,7 @@ const welcome = () =>{
 
     return (
         <div className="Welcome">
-            <h1>Welcome to MyApp</h1>
+            <h1>Welcome to MyApplication</h1>
         </div>
     )
 }
